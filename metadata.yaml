@@ -1,5 +1,8 @@
 _repo: Mind-and-Hand-Manual-Training-the-Chief-Factor-in-Education_67039
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67039-h/images/cover.jpg
 creator:
   author:
     agent_name: Cunningham, Charles Henry
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '41185'
     url: http://www.gutenberg.org/2009/agents/41185
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67039#Mind-and-Hand-Manual-Training-the-Chief-Factor-in-Education
 gutenberg_issued: '2021-12-29'
 identifiers:
   gutenberg: '67039'
